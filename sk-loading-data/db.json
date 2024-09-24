@@ -9,14 +9,40 @@
         {
             "id": 2,
             "title": "product 2",
-            "price": 500,
+            "price": 50,
             "description": "description 2"
         },
         {
             "id": 1,
             "title": "product 3",
-            "price": 400,
+            "price": 40,
             "description": "description 3"
+        }
+    ],
+    "most-active-stock": {
+        "symbol": "STOCK A",
+        "price": 3510.0
+    },
+    "top-gaining-stock": {
+        "symbol": "STOCK B",
+        "price": 510.0
+    },
+    "top-loosing-stock": {
+        "symbol": "STOCK C",
+        "price": 5000.0
+    },
+    "stocks": [
+        {
+            "symbol": "STOCK D",
+            "price": 6034.0
+        },
+        {
+            "symbol": "STOCK E",
+            "price": 7514.0
+        },
+        {
+            "symbol": "STOCK F",
+            "price": 6735.0
         }
     ]
 }
